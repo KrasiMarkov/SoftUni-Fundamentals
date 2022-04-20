@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\1. Student information\bin\Debug\netcoreapp3.0\1. Student information.exe
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\1. Student information\bin\Debug\netcoreapp3.0\1. Student information.deps.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\1. Student information\bin\Debug\netcoreapp3.0\1. Student information.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\1. Student information\bin\Debug\netcoreapp3.0\1. Student information.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\1. Student information\bin\Debug\netcoreapp3.0\1. Student information.dll
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\1. Student information\bin\Debug\netcoreapp3.0\1. Student information.pdb
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\1. Student information\obj\Debug\netcoreapp3.0\1. Student information.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\1. Student information\obj\Debug\netcoreapp3.0\1. Student information.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\1. Student information\obj\Debug\netcoreapp3.0\1. Student information.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\1. Student information\obj\Debug\netcoreapp3.0\1. Student information.dll
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\1. Student information\obj\Debug\netcoreapp3.0\1. Student information.pdb
