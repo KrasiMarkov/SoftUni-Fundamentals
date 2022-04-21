@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Even Number\bin\Debug\netcoreapp3.0\Even Number.exe
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Even Number\bin\Debug\netcoreapp3.0\Even Number.deps.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Even Number\bin\Debug\netcoreapp3.0\Even Number.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Even Number\bin\Debug\netcoreapp3.0\Even Number.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Even Number\bin\Debug\netcoreapp3.0\Even Number.dll
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Even Number\bin\Debug\netcoreapp3.0\Even Number.pdb
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Even Number\obj\Debug\netcoreapp3.0\Even Number.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Even Number\obj\Debug\netcoreapp3.0\Even Number.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Even Number\obj\Debug\netcoreapp3.0\Even Number.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Even Number\obj\Debug\netcoreapp3.0\Even Number.dll
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Even Number\obj\Debug\netcoreapp3.0\Even Number.pdb
