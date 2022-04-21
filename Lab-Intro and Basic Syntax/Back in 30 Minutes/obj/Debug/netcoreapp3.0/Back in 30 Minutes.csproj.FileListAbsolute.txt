@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Back in 30 Minutes\bin\Debug\netcoreapp3.0\Back in 30 Minutes.exe
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Back in 30 Minutes\bin\Debug\netcoreapp3.0\Back in 30 Minutes.deps.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Back in 30 Minutes\bin\Debug\netcoreapp3.0\Back in 30 Minutes.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Back in 30 Minutes\bin\Debug\netcoreapp3.0\Back in 30 Minutes.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Back in 30 Minutes\bin\Debug\netcoreapp3.0\Back in 30 Minutes.dll
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Back in 30 Minutes\bin\Debug\netcoreapp3.0\Back in 30 Minutes.pdb
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Back in 30 Minutes\obj\Debug\netcoreapp3.0\Back in 30 Minutes.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Back in 30 Minutes\obj\Debug\netcoreapp3.0\Back in 30 Minutes.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Back in 30 Minutes\obj\Debug\netcoreapp3.0\Back in 30 Minutes.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Back in 30 Minutes\obj\Debug\netcoreapp3.0\Back in 30 Minutes.dll
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Back in 30 Minutes\obj\Debug\netcoreapp3.0\Back in 30 Minutes.pdb
