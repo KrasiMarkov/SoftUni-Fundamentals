@@ -1,0 +1,10 @@
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Divisible by 3\bin\Debug\netcoreapp3.0\Divisible by 3.exe
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Divisible by 3\bin\Debug\netcoreapp3.0\Divisible by 3.deps.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Divisible by 3\bin\Debug\netcoreapp3.0\Divisible by 3.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Divisible by 3\bin\Debug\netcoreapp3.0\Divisible by 3.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Divisible by 3\bin\Debug\netcoreapp3.0\Divisible by 3.dll
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Divisible by 3\bin\Debug\netcoreapp3.0\Divisible by 3.pdb
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Divisible by 3\obj\Debug\netcoreapp3.0\Divisible by 3.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Divisible by 3\obj\Debug\netcoreapp3.0\Divisible by 3.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Divisible by 3\obj\Debug\netcoreapp3.0\Divisible by 3.dll
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Divisible by 3\obj\Debug\netcoreapp3.0\Divisible by 3.pdb
