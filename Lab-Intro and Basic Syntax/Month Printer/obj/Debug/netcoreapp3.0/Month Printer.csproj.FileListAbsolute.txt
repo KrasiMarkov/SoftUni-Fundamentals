@@ -1,0 +1,10 @@
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Month Printer\bin\Debug\netcoreapp3.0\Month Printer.exe
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Month Printer\bin\Debug\netcoreapp3.0\Month Printer.deps.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Month Printer\bin\Debug\netcoreapp3.0\Month Printer.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Month Printer\bin\Debug\netcoreapp3.0\Month Printer.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Month Printer\bin\Debug\netcoreapp3.0\Month Printer.dll
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Month Printer\bin\Debug\netcoreapp3.0\Month Printer.pdb
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Month Printer\obj\Debug\netcoreapp3.0\Month Printer.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Month Printer\obj\Debug\netcoreapp3.0\Month Printer.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Month Printer\obj\Debug\netcoreapp3.0\Month Printer.dll
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Month Printer\obj\Debug\netcoreapp3.0\Month Printer.pdb
