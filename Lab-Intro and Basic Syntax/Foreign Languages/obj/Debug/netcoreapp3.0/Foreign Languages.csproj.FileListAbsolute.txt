@@ -1,0 +1,10 @@
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Foreign Languages\bin\Debug\netcoreapp3.0\Foreign Languages.exe
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Foreign Languages\bin\Debug\netcoreapp3.0\Foreign Languages.deps.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Foreign Languages\bin\Debug\netcoreapp3.0\Foreign Languages.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Foreign Languages\bin\Debug\netcoreapp3.0\Foreign Languages.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Foreign Languages\bin\Debug\netcoreapp3.0\Foreign Languages.dll
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Foreign Languages\bin\Debug\netcoreapp3.0\Foreign Languages.pdb
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Foreign Languages\obj\Debug\netcoreapp3.0\Foreign Languages.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Foreign Languages\obj\Debug\netcoreapp3.0\Foreign Languages.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Foreign Languages\obj\Debug\netcoreapp3.0\Foreign Languages.dll
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Foreign Languages\obj\Debug\netcoreapp3.0\Foreign Languages.pdb
