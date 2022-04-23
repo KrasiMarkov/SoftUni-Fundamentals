@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Multiplication Table\bin\Debug\netcoreapp3.0\Multiplication Table.exe
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Multiplication Table\bin\Debug\netcoreapp3.0\Multiplication Table.deps.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Multiplication Table\bin\Debug\netcoreapp3.0\Multiplication Table.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Multiplication Table\bin\Debug\netcoreapp3.0\Multiplication Table.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Multiplication Table\bin\Debug\netcoreapp3.0\Multiplication Table.dll
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Multiplication Table\bin\Debug\netcoreapp3.0\Multiplication Table.pdb
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Multiplication Table\obj\Debug\netcoreapp3.0\Multiplication Table.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Multiplication Table\obj\Debug\netcoreapp3.0\Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Multiplication Table\obj\Debug\netcoreapp3.0\Multiplication Table.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Multiplication Table\obj\Debug\netcoreapp3.0\Multiplication Table.dll
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Multiplication Table\obj\Debug\netcoreapp3.0\Multiplication Table.pdb
