@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Passed or Failed\bin\Debug\netcoreapp3.0\Passed or Failed.exe
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Passed or Failed\bin\Debug\netcoreapp3.0\Passed or Failed.deps.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Passed or Failed\bin\Debug\netcoreapp3.0\Passed or Failed.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Passed or Failed\bin\Debug\netcoreapp3.0\Passed or Failed.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Passed or Failed\bin\Debug\netcoreapp3.0\Passed or Failed.dll
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Passed or Failed\bin\Debug\netcoreapp3.0\Passed or Failed.pdb
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Passed or Failed\obj\Debug\netcoreapp3.0\Passed or Failed.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Passed or Failed\obj\Debug\netcoreapp3.0\Passed or Failed.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Passed or Failed\obj\Debug\netcoreapp3.0\Passed or Failed.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Passed or Failed\obj\Debug\netcoreapp3.0\Passed or Failed.dll
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Passed or Failed\obj\Debug\netcoreapp3.0\Passed or Failed.pdb
