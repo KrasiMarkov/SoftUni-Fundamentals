@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Theather Promotion\bin\Debug\netcoreapp3.0\Theather Promotion.exe
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Theather Promotion\bin\Debug\netcoreapp3.0\Theather Promotion.deps.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Theather Promotion\bin\Debug\netcoreapp3.0\Theather Promotion.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Theather Promotion\bin\Debug\netcoreapp3.0\Theather Promotion.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Theather Promotion\bin\Debug\netcoreapp3.0\Theather Promotion.dll
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Theather Promotion\bin\Debug\netcoreapp3.0\Theather Promotion.pdb
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Theather Promotion\obj\Debug\netcoreapp3.0\Theather Promotion.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Theather Promotion\obj\Debug\netcoreapp3.0\Theather Promotion.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Theather Promotion\obj\Debug\netcoreapp3.0\Theather Promotion.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Theather Promotion\obj\Debug\netcoreapp3.0\Theather Promotion.dll
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Theather Promotion\obj\Debug\netcoreapp3.0\Theather Promotion.pdb
