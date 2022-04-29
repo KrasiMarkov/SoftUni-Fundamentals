@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Sum of Odd Numbers\bin\Debug\netcoreapp3.0\Sum of Odd Numbers.exe
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Sum of Odd Numbers\bin\Debug\netcoreapp3.0\Sum of Odd Numbers.deps.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Sum of Odd Numbers\bin\Debug\netcoreapp3.0\Sum of Odd Numbers.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Sum of Odd Numbers\bin\Debug\netcoreapp3.0\Sum of Odd Numbers.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Sum of Odd Numbers\bin\Debug\netcoreapp3.0\Sum of Odd Numbers.dll
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Sum of Odd Numbers\bin\Debug\netcoreapp3.0\Sum of Odd Numbers.pdb
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Sum of Odd Numbers\obj\Debug\netcoreapp3.0\Sum of Odd Numbers.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Sum of Odd Numbers\obj\Debug\netcoreapp3.0\Sum of Odd Numbers.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Sum of Odd Numbers\obj\Debug\netcoreapp3.0\Sum of Odd Numbers.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Sum of Odd Numbers\obj\Debug\netcoreapp3.0\Sum of Odd Numbers.dll
+C:\Users\Krasi\source\repos\Lab-Intro and Basic Syntax\Sum of Odd Numbers\obj\Debug\netcoreapp3.0\Sum of Odd Numbers.pdb
