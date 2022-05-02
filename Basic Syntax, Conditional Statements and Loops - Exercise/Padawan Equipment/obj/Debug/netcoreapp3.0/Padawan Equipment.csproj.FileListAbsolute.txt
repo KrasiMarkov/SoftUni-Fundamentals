@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\bin\Debug\netcoreapp3.0\Padawan Equipment.exe
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\bin\Debug\netcoreapp3.0\Padawan Equipment.deps.json
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\bin\Debug\netcoreapp3.0\Padawan Equipment.runtimeconfig.json
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\bin\Debug\netcoreapp3.0\Padawan Equipment.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\bin\Debug\netcoreapp3.0\Padawan Equipment.dll
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\bin\Debug\netcoreapp3.0\Padawan Equipment.pdb
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\obj\Debug\netcoreapp3.0\Padawan Equipment.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\obj\Debug\netcoreapp3.0\Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\obj\Debug\netcoreapp3.0\Padawan Equipment.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\obj\Debug\netcoreapp3.0\Padawan Equipment.dll
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Padawan Equipment\obj\Debug\netcoreapp3.0\Padawan Equipment.pdb
