@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Print and sum\bin\Debug\netcoreapp3.0\Print and sum.exe
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Print and sum\bin\Debug\netcoreapp3.0\Print and sum.deps.json
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Print and sum\bin\Debug\netcoreapp3.0\Print and sum.runtimeconfig.json
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Print and sum\bin\Debug\netcoreapp3.0\Print and sum.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Print and sum\bin\Debug\netcoreapp3.0\Print and sum.dll
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Print and sum\bin\Debug\netcoreapp3.0\Print and sum.pdb
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Print and sum\obj\Debug\netcoreapp3.0\Print and sum.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Print and sum\obj\Debug\netcoreapp3.0\Print and sum.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Print and sum\obj\Debug\netcoreapp3.0\Print and sum.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Print and sum\obj\Debug\netcoreapp3.0\Print and sum.dll
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Print and sum\obj\Debug\netcoreapp3.0\Print and sum.pdb
