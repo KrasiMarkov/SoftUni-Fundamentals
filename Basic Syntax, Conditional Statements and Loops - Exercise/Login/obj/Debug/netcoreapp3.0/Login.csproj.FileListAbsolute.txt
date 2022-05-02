@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\bin\Debug\netcoreapp3.0\Login.exe
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\bin\Debug\netcoreapp3.0\Login.deps.json
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\bin\Debug\netcoreapp3.0\Login.runtimeconfig.json
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\bin\Debug\netcoreapp3.0\Login.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\bin\Debug\netcoreapp3.0\Login.dll
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\bin\Debug\netcoreapp3.0\Login.pdb
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\netcoreapp3.0\Login.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\netcoreapp3.0\Login.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\netcoreapp3.0\Login.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\netcoreapp3.0\Login.dll
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Login\obj\Debug\netcoreapp3.0\Login.pdb
