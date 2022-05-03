@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.0\Strong number.exe
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.0\Strong number.deps.json
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.0\Strong number.runtimeconfig.json
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.0\Strong number.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.0\Strong number.dll
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\bin\Debug\netcoreapp3.0\Strong number.pdb
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.0\Strong number.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.0\Strong number.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.0\Strong number.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.0\Strong number.dll
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Strong number\obj\Debug\netcoreapp3.0\Strong number.pdb
