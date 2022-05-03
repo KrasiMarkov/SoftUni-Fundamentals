@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\bin\Debug\netcoreapp3.0\Triangle of Numbers.exe
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\bin\Debug\netcoreapp3.0\Triangle of Numbers.deps.json
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\bin\Debug\netcoreapp3.0\Triangle of Numbers.runtimeconfig.json
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\bin\Debug\netcoreapp3.0\Triangle of Numbers.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\bin\Debug\netcoreapp3.0\Triangle of Numbers.dll
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\bin\Debug\netcoreapp3.0\Triangle of Numbers.pdb
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\obj\Debug\netcoreapp3.0\Triangle of Numbers.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\obj\Debug\netcoreapp3.0\Triangle of Numbers.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\obj\Debug\netcoreapp3.0\Triangle of Numbers.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\obj\Debug\netcoreapp3.0\Triangle of Numbers.dll
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Triangle of Numbers\obj\Debug\netcoreapp3.0\Triangle of Numbers.pdb
