@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine.exe
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine.deps.json
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine.runtimeconfig.json
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine.dll
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\bin\Debug\netcoreapp3.0\Vending Machine.pdb
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\obj\Debug\netcoreapp3.0\Vending Machine.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\obj\Debug\netcoreapp3.0\Vending Machine.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\obj\Debug\netcoreapp3.0\Vending Machine.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\obj\Debug\netcoreapp3.0\Vending Machine.dll
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vending Machine\obj\Debug\netcoreapp3.0\Vending Machine.pdb
