@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\bin\Debug\netcoreapp3.0\Vacation.exe
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\bin\Debug\netcoreapp3.0\Vacation.deps.json
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\bin\Debug\netcoreapp3.0\Vacation.runtimeconfig.json
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\bin\Debug\netcoreapp3.0\Vacation.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\bin\Debug\netcoreapp3.0\Vacation.dll
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\bin\Debug\netcoreapp3.0\Vacation.pdb
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\obj\Debug\netcoreapp3.0\Vacation.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\obj\Debug\netcoreapp3.0\Vacation.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\obj\Debug\netcoreapp3.0\Vacation.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\obj\Debug\netcoreapp3.0\Vacation.dll
+C:\Users\Krasi\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\Vacation\obj\Debug\netcoreapp3.0\Vacation.pdb
