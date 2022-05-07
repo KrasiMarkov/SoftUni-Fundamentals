@@ -1,0 +1,10 @@
+C:\Users\Krasi\source\repos\Data Types and Variables\Chars to String\bin\Debug\netcoreapp3.0\Chars to String.exe
+C:\Users\Krasi\source\repos\Data Types and Variables\Chars to String\bin\Debug\netcoreapp3.0\Chars to String.deps.json
+C:\Users\Krasi\source\repos\Data Types and Variables\Chars to String\bin\Debug\netcoreapp3.0\Chars to String.runtimeconfig.json
+C:\Users\Krasi\source\repos\Data Types and Variables\Chars to String\bin\Debug\netcoreapp3.0\Chars to String.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Data Types and Variables\Chars to String\bin\Debug\netcoreapp3.0\Chars to String.dll
+C:\Users\Krasi\source\repos\Data Types and Variables\Chars to String\bin\Debug\netcoreapp3.0\Chars to String.pdb
+C:\Users\Krasi\source\repos\Data Types and Variables\Chars to String\obj\Debug\netcoreapp3.0\Chars to String.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Data Types and Variables\Chars to String\obj\Debug\netcoreapp3.0\Chars to String.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Data Types and Variables\Chars to String\obj\Debug\netcoreapp3.0\Chars to String.dll
+C:\Users\Krasi\source\repos\Data Types and Variables\Chars to String\obj\Debug\netcoreapp3.0\Chars to String.pdb
