@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Data Types and Variables\Lower or Upper\bin\Debug\netcoreapp3.0\Lower or Upper.exe
+C:\Users\Krasi\source\repos\Data Types and Variables\Lower or Upper\bin\Debug\netcoreapp3.0\Lower or Upper.deps.json
+C:\Users\Krasi\source\repos\Data Types and Variables\Lower or Upper\bin\Debug\netcoreapp3.0\Lower or Upper.runtimeconfig.json
+C:\Users\Krasi\source\repos\Data Types and Variables\Lower or Upper\bin\Debug\netcoreapp3.0\Lower or Upper.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Data Types and Variables\Lower or Upper\bin\Debug\netcoreapp3.0\Lower or Upper.dll
+C:\Users\Krasi\source\repos\Data Types and Variables\Lower or Upper\bin\Debug\netcoreapp3.0\Lower or Upper.pdb
+C:\Users\Krasi\source\repos\Data Types and Variables\Lower or Upper\obj\Debug\netcoreapp3.0\Lower or Upper.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Data Types and Variables\Lower or Upper\obj\Debug\netcoreapp3.0\Lower or Upper.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Data Types and Variables\Lower or Upper\obj\Debug\netcoreapp3.0\Lower or Upper.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Data Types and Variables\Lower or Upper\obj\Debug\netcoreapp3.0\Lower or Upper.dll
+C:\Users\Krasi\source\repos\Data Types and Variables\Lower or Upper\obj\Debug\netcoreapp3.0\Lower or Upper.pdb
