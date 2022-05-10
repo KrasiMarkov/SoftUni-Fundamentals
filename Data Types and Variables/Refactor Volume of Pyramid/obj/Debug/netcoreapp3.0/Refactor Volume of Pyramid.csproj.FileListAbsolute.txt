@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Data Types and Variables\Refactor Volume of Pyramid\bin\Debug\netcoreapp3.0\Refactor Volume of Pyramid.exe
+C:\Users\Krasi\source\repos\Data Types and Variables\Refactor Volume of Pyramid\bin\Debug\netcoreapp3.0\Refactor Volume of Pyramid.deps.json
+C:\Users\Krasi\source\repos\Data Types and Variables\Refactor Volume of Pyramid\bin\Debug\netcoreapp3.0\Refactor Volume of Pyramid.runtimeconfig.json
+C:\Users\Krasi\source\repos\Data Types and Variables\Refactor Volume of Pyramid\bin\Debug\netcoreapp3.0\Refactor Volume of Pyramid.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Data Types and Variables\Refactor Volume of Pyramid\bin\Debug\netcoreapp3.0\Refactor Volume of Pyramid.dll
+C:\Users\Krasi\source\repos\Data Types and Variables\Refactor Volume of Pyramid\bin\Debug\netcoreapp3.0\Refactor Volume of Pyramid.pdb
+C:\Users\Krasi\source\repos\Data Types and Variables\Refactor Volume of Pyramid\obj\Debug\netcoreapp3.0\Refactor Volume of Pyramid.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Data Types and Variables\Refactor Volume of Pyramid\obj\Debug\netcoreapp3.0\Refactor Volume of Pyramid.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Data Types and Variables\Refactor Volume of Pyramid\obj\Debug\netcoreapp3.0\Refactor Volume of Pyramid.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Data Types and Variables\Refactor Volume of Pyramid\obj\Debug\netcoreapp3.0\Refactor Volume of Pyramid.dll
+C:\Users\Krasi\source\repos\Data Types and Variables\Refactor Volume of Pyramid\obj\Debug\netcoreapp3.0\Refactor Volume of Pyramid.pdb
