@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Data Types and Variables\Town Info\bin\Debug\netcoreapp3.0\Town Info.exe
+C:\Users\Krasi\source\repos\Data Types and Variables\Town Info\bin\Debug\netcoreapp3.0\Town Info.deps.json
+C:\Users\Krasi\source\repos\Data Types and Variables\Town Info\bin\Debug\netcoreapp3.0\Town Info.runtimeconfig.json
+C:\Users\Krasi\source\repos\Data Types and Variables\Town Info\bin\Debug\netcoreapp3.0\Town Info.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Data Types and Variables\Town Info\bin\Debug\netcoreapp3.0\Town Info.dll
+C:\Users\Krasi\source\repos\Data Types and Variables\Town Info\bin\Debug\netcoreapp3.0\Town Info.pdb
+C:\Users\Krasi\source\repos\Data Types and Variables\Town Info\obj\Debug\netcoreapp3.0\Town Info.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Data Types and Variables\Town Info\obj\Debug\netcoreapp3.0\Town Info.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Data Types and Variables\Town Info\obj\Debug\netcoreapp3.0\Town Info.dll
+C:\Users\Krasi\source\repos\Data Types and Variables\Town Info\obj\Debug\netcoreapp3.0\Town Info.pdb
+C:\Users\Krasi\source\repos\Data Types and Variables\Town Info\obj\Debug\netcoreapp3.0\Town Info.csprojAssemblyReference.cache
