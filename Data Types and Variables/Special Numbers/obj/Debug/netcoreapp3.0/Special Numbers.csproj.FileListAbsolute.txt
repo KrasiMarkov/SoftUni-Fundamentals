@@ -1,0 +1,10 @@
+C:\Users\Krasi\source\repos\Data Types and Variables\Special Numbers\bin\Debug\netcoreapp3.0\Special Numbers.exe
+C:\Users\Krasi\source\repos\Data Types and Variables\Special Numbers\bin\Debug\netcoreapp3.0\Special Numbers.deps.json
+C:\Users\Krasi\source\repos\Data Types and Variables\Special Numbers\bin\Debug\netcoreapp3.0\Special Numbers.runtimeconfig.json
+C:\Users\Krasi\source\repos\Data Types and Variables\Special Numbers\bin\Debug\netcoreapp3.0\Special Numbers.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Data Types and Variables\Special Numbers\bin\Debug\netcoreapp3.0\Special Numbers.dll
+C:\Users\Krasi\source\repos\Data Types and Variables\Special Numbers\bin\Debug\netcoreapp3.0\Special Numbers.pdb
+C:\Users\Krasi\source\repos\Data Types and Variables\Special Numbers\obj\Debug\netcoreapp3.0\Special Numbers.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Data Types and Variables\Special Numbers\obj\Debug\netcoreapp3.0\Special Numbers.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Data Types and Variables\Special Numbers\obj\Debug\netcoreapp3.0\Special Numbers.dll
+C:\Users\Krasi\source\repos\Data Types and Variables\Special Numbers\obj\Debug\netcoreapp3.0\Special Numbers.pdb
