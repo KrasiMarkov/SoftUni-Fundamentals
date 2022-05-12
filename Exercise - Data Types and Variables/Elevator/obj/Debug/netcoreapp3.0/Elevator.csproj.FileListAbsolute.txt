@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Elevator\bin\Debug\netcoreapp3.0\Elevator.exe
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Elevator\bin\Debug\netcoreapp3.0\Elevator.deps.json
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Elevator\bin\Debug\netcoreapp3.0\Elevator.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Elevator\bin\Debug\netcoreapp3.0\Elevator.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Elevator\bin\Debug\netcoreapp3.0\Elevator.dll
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Elevator\bin\Debug\netcoreapp3.0\Elevator.pdb
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Elevator\obj\Debug\netcoreapp3.0\Elevator.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Elevator\obj\Debug\netcoreapp3.0\Elevator.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Elevator\obj\Debug\netcoreapp3.0\Elevator.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Elevator\obj\Debug\netcoreapp3.0\Elevator.dll
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Elevator\obj\Debug\netcoreapp3.0\Elevator.pdb
