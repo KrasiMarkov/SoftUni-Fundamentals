@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Print Part Of ASCII Table\bin\Debug\netcoreapp3.0\Print Part Of ASCII Table.exe
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Print Part Of ASCII Table\bin\Debug\netcoreapp3.0\Print Part Of ASCII Table.deps.json
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Print Part Of ASCII Table\bin\Debug\netcoreapp3.0\Print Part Of ASCII Table.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Print Part Of ASCII Table\bin\Debug\netcoreapp3.0\Print Part Of ASCII Table.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Print Part Of ASCII Table\bin\Debug\netcoreapp3.0\Print Part Of ASCII Table.dll
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Print Part Of ASCII Table\bin\Debug\netcoreapp3.0\Print Part Of ASCII Table.pdb
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Print Part Of ASCII Table\obj\Debug\netcoreapp3.0\Print Part Of ASCII Table.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Print Part Of ASCII Table\obj\Debug\netcoreapp3.0\Print Part Of ASCII Table.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Print Part Of ASCII Table\obj\Debug\netcoreapp3.0\Print Part Of ASCII Table.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Print Part Of ASCII Table\obj\Debug\netcoreapp3.0\Print Part Of ASCII Table.dll
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Print Part Of ASCII Table\obj\Debug\netcoreapp3.0\Print Part Of ASCII Table.pdb
