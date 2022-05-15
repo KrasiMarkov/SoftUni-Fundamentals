@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Integer Operations\bin\Debug\netcoreapp3.0\Integer Operations.exe
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Integer Operations\bin\Debug\netcoreapp3.0\Integer Operations.deps.json
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Integer Operations\bin\Debug\netcoreapp3.0\Integer Operations.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Integer Operations\bin\Debug\netcoreapp3.0\Integer Operations.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Integer Operations\bin\Debug\netcoreapp3.0\Integer Operations.dll
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Integer Operations\bin\Debug\netcoreapp3.0\Integer Operations.pdb
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Integer Operations\obj\Debug\netcoreapp3.0\Integer Operations.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Integer Operations\obj\Debug\netcoreapp3.0\Integer Operations.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Integer Operations\obj\Debug\netcoreapp3.0\Integer Operations.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Integer Operations\obj\Debug\netcoreapp3.0\Integer Operations.dll
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Integer Operations\obj\Debug\netcoreapp3.0\Integer Operations.pdb
