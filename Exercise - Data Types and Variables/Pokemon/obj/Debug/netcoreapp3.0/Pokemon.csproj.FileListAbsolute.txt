@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Pokemon\bin\Debug\netcoreapp3.0\Pokemon.exe
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Pokemon\bin\Debug\netcoreapp3.0\Pokemon.deps.json
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Pokemon\bin\Debug\netcoreapp3.0\Pokemon.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Pokemon\bin\Debug\netcoreapp3.0\Pokemon.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Pokemon\bin\Debug\netcoreapp3.0\Pokemon.dll
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Pokemon\bin\Debug\netcoreapp3.0\Pokemon.pdb
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Pokemon\obj\Debug\netcoreapp3.0\Pokemon.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Pokemon\obj\Debug\netcoreapp3.0\Pokemon.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Pokemon\obj\Debug\netcoreapp3.0\Pokemon.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Pokemon\obj\Debug\netcoreapp3.0\Pokemon.dll
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Pokemon\obj\Debug\netcoreapp3.0\Pokemon.pdb
