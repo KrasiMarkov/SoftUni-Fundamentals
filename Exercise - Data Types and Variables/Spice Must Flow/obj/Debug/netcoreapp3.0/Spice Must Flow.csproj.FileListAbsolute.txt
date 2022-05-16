@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Spice Must Flow\bin\Debug\netcoreapp3.0\Spice Must Flow.exe
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Spice Must Flow\bin\Debug\netcoreapp3.0\Spice Must Flow.deps.json
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Spice Must Flow\bin\Debug\netcoreapp3.0\Spice Must Flow.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Spice Must Flow\bin\Debug\netcoreapp3.0\Spice Must Flow.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Spice Must Flow\bin\Debug\netcoreapp3.0\Spice Must Flow.dll
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Spice Must Flow\bin\Debug\netcoreapp3.0\Spice Must Flow.pdb
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Spice Must Flow\obj\Debug\netcoreapp3.0\Spice Must Flow.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Spice Must Flow\obj\Debug\netcoreapp3.0\Spice Must Flow.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Spice Must Flow\obj\Debug\netcoreapp3.0\Spice Must Flow.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Spice Must Flow\obj\Debug\netcoreapp3.0\Spice Must Flow.dll
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Spice Must Flow\obj\Debug\netcoreapp3.0\Spice Must Flow.pdb
