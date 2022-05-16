@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Sum Digits\bin\Debug\netcoreapp3.0\Sum Digits.exe
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Sum Digits\bin\Debug\netcoreapp3.0\Sum Digits.deps.json
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Sum Digits\bin\Debug\netcoreapp3.0\Sum Digits.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Sum Digits\bin\Debug\netcoreapp3.0\Sum Digits.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Sum Digits\bin\Debug\netcoreapp3.0\Sum Digits.dll
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Sum Digits\bin\Debug\netcoreapp3.0\Sum Digits.pdb
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Sum Digits\obj\Debug\netcoreapp3.0\Sum Digits.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Sum Digits\obj\Debug\netcoreapp3.0\Sum Digits.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Sum Digits\obj\Debug\netcoreapp3.0\Sum Digits.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Sum Digits\obj\Debug\netcoreapp3.0\Sum Digits.dll
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Sum Digits\obj\Debug\netcoreapp3.0\Sum Digits.pdb
