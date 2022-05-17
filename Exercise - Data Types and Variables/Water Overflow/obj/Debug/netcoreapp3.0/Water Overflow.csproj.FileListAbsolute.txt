@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Water Overflow\bin\Debug\netcoreapp3.0\Water Overflow.exe
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Water Overflow\bin\Debug\netcoreapp3.0\Water Overflow.deps.json
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Water Overflow\bin\Debug\netcoreapp3.0\Water Overflow.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Water Overflow\bin\Debug\netcoreapp3.0\Water Overflow.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Water Overflow\bin\Debug\netcoreapp3.0\Water Overflow.dll
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Water Overflow\bin\Debug\netcoreapp3.0\Water Overflow.pdb
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Water Overflow\obj\Debug\netcoreapp3.0\Water Overflow.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Water Overflow\obj\Debug\netcoreapp3.0\Water Overflow.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Water Overflow\obj\Debug\netcoreapp3.0\Water Overflow.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Water Overflow\obj\Debug\netcoreapp3.0\Water Overflow.dll
+C:\Users\Krasi\source\repos\Exercise - Data Types and Variables\Water Overflow\obj\Debug\netcoreapp3.0\Water Overflow.pdb
