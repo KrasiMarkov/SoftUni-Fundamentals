@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Condens Array to Number/1.0.0": {
+        "runtime": {
+          "Condens Array to Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Condens Array to Number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Arrays Lab\Condens Array to Number\bin\Debug\netcoreapp3.0\Condens Array to Number.exe
+C:\Users\Krasi\source\repos\Arrays Lab\Condens Array to Number\bin\Debug\netcoreapp3.0\Condens Array to Number.deps.json
+C:\Users\Krasi\source\repos\Arrays Lab\Condens Array to Number\bin\Debug\netcoreapp3.0\Condens Array to Number.runtimeconfig.json
+C:\Users\Krasi\source\repos\Arrays Lab\Condens Array to Number\bin\Debug\netcoreapp3.0\Condens Array to Number.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Arrays Lab\Condens Array to Number\bin\Debug\netcoreapp3.0\Condens Array to Number.dll
+C:\Users\Krasi\source\repos\Arrays Lab\Condens Array to Number\bin\Debug\netcoreapp3.0\Condens Array to Number.pdb
+C:\Users\Krasi\source\repos\Arrays Lab\Condens Array to Number\obj\Debug\netcoreapp3.0\Condens Array to Number.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Arrays Lab\Condens Array to Number\obj\Debug\netcoreapp3.0\Condens Array to Number.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Arrays Lab\Condens Array to Number\obj\Debug\netcoreapp3.0\Condens Array to Number.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Arrays Lab\Condens Array to Number\obj\Debug\netcoreapp3.0\Condens Array to Number.dll
+C:\Users\Krasi\source\repos\Arrays Lab\Condens Array to Number\obj\Debug\netcoreapp3.0\Condens Array to Number.pdb
