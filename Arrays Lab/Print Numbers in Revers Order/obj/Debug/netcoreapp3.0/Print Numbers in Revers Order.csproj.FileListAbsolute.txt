@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Arrays Lab\Print Numbers in Revers Order\bin\Debug\netcoreapp3.0\Print Numbers in Revers Order.exe
+C:\Users\Krasi\source\repos\Arrays Lab\Print Numbers in Revers Order\bin\Debug\netcoreapp3.0\Print Numbers in Revers Order.deps.json
+C:\Users\Krasi\source\repos\Arrays Lab\Print Numbers in Revers Order\bin\Debug\netcoreapp3.0\Print Numbers in Revers Order.runtimeconfig.json
+C:\Users\Krasi\source\repos\Arrays Lab\Print Numbers in Revers Order\bin\Debug\netcoreapp3.0\Print Numbers in Revers Order.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Arrays Lab\Print Numbers in Revers Order\bin\Debug\netcoreapp3.0\Print Numbers in Revers Order.dll
+C:\Users\Krasi\source\repos\Arrays Lab\Print Numbers in Revers Order\bin\Debug\netcoreapp3.0\Print Numbers in Revers Order.pdb
+C:\Users\Krasi\source\repos\Arrays Lab\Print Numbers in Revers Order\obj\Debug\netcoreapp3.0\Print Numbers in Revers Order.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Arrays Lab\Print Numbers in Revers Order\obj\Debug\netcoreapp3.0\Print Numbers in Revers Order.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Arrays Lab\Print Numbers in Revers Order\obj\Debug\netcoreapp3.0\Print Numbers in Revers Order.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Arrays Lab\Print Numbers in Revers Order\obj\Debug\netcoreapp3.0\Print Numbers in Revers Order.dll
+C:\Users\Krasi\source\repos\Arrays Lab\Print Numbers in Revers Order\obj\Debug\netcoreapp3.0\Print Numbers in Revers Order.pdb

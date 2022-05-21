@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Print Numbers in Revers Order/1.0.0": {
+        "runtime": {
+          "Print Numbers in Revers Order.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Print Numbers in Revers Order/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
