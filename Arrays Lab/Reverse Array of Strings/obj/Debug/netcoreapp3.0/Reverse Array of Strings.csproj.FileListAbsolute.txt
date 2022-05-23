@@ -1,0 +1,10 @@
+C:\Users\Krasi\source\repos\Arrays Lab\Reverse Array of Strings\bin\Debug\netcoreapp3.0\Reverse Array of Strings.exe
+C:\Users\Krasi\source\repos\Arrays Lab\Reverse Array of Strings\bin\Debug\netcoreapp3.0\Reverse Array of Strings.deps.json
+C:\Users\Krasi\source\repos\Arrays Lab\Reverse Array of Strings\bin\Debug\netcoreapp3.0\Reverse Array of Strings.runtimeconfig.json
+C:\Users\Krasi\source\repos\Arrays Lab\Reverse Array of Strings\bin\Debug\netcoreapp3.0\Reverse Array of Strings.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Arrays Lab\Reverse Array of Strings\bin\Debug\netcoreapp3.0\Reverse Array of Strings.dll
+C:\Users\Krasi\source\repos\Arrays Lab\Reverse Array of Strings\bin\Debug\netcoreapp3.0\Reverse Array of Strings.pdb
+C:\Users\Krasi\source\repos\Arrays Lab\Reverse Array of Strings\obj\Debug\netcoreapp3.0\Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Arrays Lab\Reverse Array of Strings\obj\Debug\netcoreapp3.0\Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Arrays Lab\Reverse Array of Strings\obj\Debug\netcoreapp3.0\Reverse Array of Strings.dll
+C:\Users\Krasi\source\repos\Arrays Lab\Reverse Array of Strings\obj\Debug\netcoreapp3.0\Reverse Array of Strings.pdb
