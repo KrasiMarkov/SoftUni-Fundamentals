@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Arrays Lab\Sum Even Numbers\bin\Debug\netcoreapp3.0\Sum Even Numbers.exe
+C:\Users\Krasi\source\repos\Arrays Lab\Sum Even Numbers\bin\Debug\netcoreapp3.0\Sum Even Numbers.deps.json
+C:\Users\Krasi\source\repos\Arrays Lab\Sum Even Numbers\bin\Debug\netcoreapp3.0\Sum Even Numbers.runtimeconfig.json
+C:\Users\Krasi\source\repos\Arrays Lab\Sum Even Numbers\bin\Debug\netcoreapp3.0\Sum Even Numbers.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Arrays Lab\Sum Even Numbers\bin\Debug\netcoreapp3.0\Sum Even Numbers.dll
+C:\Users\Krasi\source\repos\Arrays Lab\Sum Even Numbers\bin\Debug\netcoreapp3.0\Sum Even Numbers.pdb
+C:\Users\Krasi\source\repos\Arrays Lab\Sum Even Numbers\obj\Debug\netcoreapp3.0\Sum Even Numbers.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Arrays Lab\Sum Even Numbers\obj\Debug\netcoreapp3.0\Sum Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Arrays Lab\Sum Even Numbers\obj\Debug\netcoreapp3.0\Sum Even Numbers.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Arrays Lab\Sum Even Numbers\obj\Debug\netcoreapp3.0\Sum Even Numbers.dll
+C:\Users\Krasi\source\repos\Arrays Lab\Sum Even Numbers\obj\Debug\netcoreapp3.0\Sum Even Numbers.pdb
