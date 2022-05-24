@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Array Rotation\bin\Debug\netcoreapp3.0\Array Rotation.exe
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Array Rotation\bin\Debug\netcoreapp3.0\Array Rotation.deps.json
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Array Rotation\bin\Debug\netcoreapp3.0\Array Rotation.runtimeconfig.json
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Array Rotation\bin\Debug\netcoreapp3.0\Array Rotation.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Array Rotation\bin\Debug\netcoreapp3.0\Array Rotation.dll
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Array Rotation\bin\Debug\netcoreapp3.0\Array Rotation.pdb
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Array Rotation\obj\Debug\netcoreapp3.0\Array Rotation.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Array Rotation\obj\Debug\netcoreapp3.0\Array Rotation.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Array Rotation\obj\Debug\netcoreapp3.0\Array Rotation.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Array Rotation\obj\Debug\netcoreapp3.0\Array Rotation.dll
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Array Rotation\obj\Debug\netcoreapp3.0\Array Rotation.pdb
