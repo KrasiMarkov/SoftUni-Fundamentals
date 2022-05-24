@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Common Elements\bin\Debug\netcoreapp3.0\Common Elements.exe
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Common Elements\bin\Debug\netcoreapp3.0\Common Elements.deps.json
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Common Elements\bin\Debug\netcoreapp3.0\Common Elements.runtimeconfig.json
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Common Elements\bin\Debug\netcoreapp3.0\Common Elements.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Common Elements\bin\Debug\netcoreapp3.0\Common Elements.dll
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Common Elements\bin\Debug\netcoreapp3.0\Common Elements.pdb
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Common Elements\obj\Debug\netcoreapp3.0\Common Elements.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Common Elements\obj\Debug\netcoreapp3.0\Common Elements.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Common Elements\obj\Debug\netcoreapp3.0\Common Elements.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Common Elements\obj\Debug\netcoreapp3.0\Common Elements.dll
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Common Elements\obj\Debug\netcoreapp3.0\Common Elements.pdb
