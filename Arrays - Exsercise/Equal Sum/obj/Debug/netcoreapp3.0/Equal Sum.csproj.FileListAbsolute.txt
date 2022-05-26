@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Equal Sum\bin\Debug\netcoreapp3.0\Equal Sum.exe
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Equal Sum\bin\Debug\netcoreapp3.0\Equal Sum.deps.json
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Equal Sum\bin\Debug\netcoreapp3.0\Equal Sum.runtimeconfig.json
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Equal Sum\bin\Debug\netcoreapp3.0\Equal Sum.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Equal Sum\bin\Debug\netcoreapp3.0\Equal Sum.dll
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Equal Sum\bin\Debug\netcoreapp3.0\Equal Sum.pdb
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Equal Sum\obj\Debug\netcoreapp3.0\Equal Sum.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Equal Sum\obj\Debug\netcoreapp3.0\Equal Sum.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Equal Sum\obj\Debug\netcoreapp3.0\Equal Sum.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Equal Sum\obj\Debug\netcoreapp3.0\Equal Sum.dll
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Equal Sum\obj\Debug\netcoreapp3.0\Equal Sum.pdb
