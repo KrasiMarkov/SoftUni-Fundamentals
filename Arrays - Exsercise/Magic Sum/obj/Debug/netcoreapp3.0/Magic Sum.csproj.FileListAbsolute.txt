@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Magic Sum\bin\Debug\netcoreapp3.0\Magic Sum.exe
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Magic Sum\bin\Debug\netcoreapp3.0\Magic Sum.deps.json
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Magic Sum\bin\Debug\netcoreapp3.0\Magic Sum.runtimeconfig.json
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Magic Sum\bin\Debug\netcoreapp3.0\Magic Sum.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Magic Sum\bin\Debug\netcoreapp3.0\Magic Sum.dll
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Magic Sum\bin\Debug\netcoreapp3.0\Magic Sum.pdb
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Magic Sum\obj\Debug\netcoreapp3.0\Magic Sum.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Magic Sum\obj\Debug\netcoreapp3.0\Magic Sum.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Magic Sum\obj\Debug\netcoreapp3.0\Magic Sum.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Magic Sum\obj\Debug\netcoreapp3.0\Magic Sum.dll
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Magic Sum\obj\Debug\netcoreapp3.0\Magic Sum.pdb
