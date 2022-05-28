@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Top integer\bin\Debug\netcoreapp3.0\Top integer.exe
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Top integer\bin\Debug\netcoreapp3.0\Top integer.deps.json
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Top integer\bin\Debug\netcoreapp3.0\Top integer.runtimeconfig.json
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Top integer\bin\Debug\netcoreapp3.0\Top integer.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Top integer\bin\Debug\netcoreapp3.0\Top integer.dll
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Top integer\bin\Debug\netcoreapp3.0\Top integer.pdb
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Top integer\obj\Debug\netcoreapp3.0\Top integer.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Top integer\obj\Debug\netcoreapp3.0\Top integer.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Top integer\obj\Debug\netcoreapp3.0\Top integer.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Top integer\obj\Debug\netcoreapp3.0\Top integer.dll
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Top integer\obj\Debug\netcoreapp3.0\Top integer.pdb
