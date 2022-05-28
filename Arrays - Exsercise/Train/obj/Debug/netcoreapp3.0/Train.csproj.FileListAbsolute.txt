@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Train\bin\Debug\netcoreapp3.0\Train.exe
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Train\bin\Debug\netcoreapp3.0\Train.deps.json
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Train\bin\Debug\netcoreapp3.0\Train.runtimeconfig.json
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Train\bin\Debug\netcoreapp3.0\Train.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Train\bin\Debug\netcoreapp3.0\Train.dll
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Train\bin\Debug\netcoreapp3.0\Train.pdb
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Train\obj\Debug\netcoreapp3.0\Train.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Train\obj\Debug\netcoreapp3.0\Train.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Train\obj\Debug\netcoreapp3.0\Train.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Train\obj\Debug\netcoreapp3.0\Train.dll
+C:\Users\Krasi\source\repos\Arrays - Exsercise\Train\obj\Debug\netcoreapp3.0\Train.pdb
