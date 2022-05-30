@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Methods - Lab\Calculate Rectangle Area\bin\Debug\netcoreapp3.0\Calculate Rectangle Area.exe
+C:\Users\Krasi\source\repos\Methods - Lab\Calculate Rectangle Area\bin\Debug\netcoreapp3.0\Calculate Rectangle Area.deps.json
+C:\Users\Krasi\source\repos\Methods - Lab\Calculate Rectangle Area\bin\Debug\netcoreapp3.0\Calculate Rectangle Area.runtimeconfig.json
+C:\Users\Krasi\source\repos\Methods - Lab\Calculate Rectangle Area\bin\Debug\netcoreapp3.0\Calculate Rectangle Area.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Methods - Lab\Calculate Rectangle Area\bin\Debug\netcoreapp3.0\Calculate Rectangle Area.dll
+C:\Users\Krasi\source\repos\Methods - Lab\Calculate Rectangle Area\bin\Debug\netcoreapp3.0\Calculate Rectangle Area.pdb
+C:\Users\Krasi\source\repos\Methods - Lab\Calculate Rectangle Area\obj\Debug\netcoreapp3.0\Calculate Rectangle Area.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Methods - Lab\Calculate Rectangle Area\obj\Debug\netcoreapp3.0\Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Methods - Lab\Calculate Rectangle Area\obj\Debug\netcoreapp3.0\Calculate Rectangle Area.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Methods - Lab\Calculate Rectangle Area\obj\Debug\netcoreapp3.0\Calculate Rectangle Area.dll
+C:\Users\Krasi\source\repos\Methods - Lab\Calculate Rectangle Area\obj\Debug\netcoreapp3.0\Calculate Rectangle Area.pdb
