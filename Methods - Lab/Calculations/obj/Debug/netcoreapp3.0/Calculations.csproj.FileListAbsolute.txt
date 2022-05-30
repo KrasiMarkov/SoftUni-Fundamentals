@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Methods - Lab\Calculations\bin\Debug\netcoreapp3.0\Calculations.exe
+C:\Users\Krasi\source\repos\Methods - Lab\Calculations\bin\Debug\netcoreapp3.0\Calculations.deps.json
+C:\Users\Krasi\source\repos\Methods - Lab\Calculations\bin\Debug\netcoreapp3.0\Calculations.runtimeconfig.json
+C:\Users\Krasi\source\repos\Methods - Lab\Calculations\bin\Debug\netcoreapp3.0\Calculations.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Methods - Lab\Calculations\bin\Debug\netcoreapp3.0\Calculations.dll
+C:\Users\Krasi\source\repos\Methods - Lab\Calculations\bin\Debug\netcoreapp3.0\Calculations.pdb
+C:\Users\Krasi\source\repos\Methods - Lab\Calculations\obj\Debug\netcoreapp3.0\Calculations.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Methods - Lab\Calculations\obj\Debug\netcoreapp3.0\Calculations.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Methods - Lab\Calculations\obj\Debug\netcoreapp3.0\Calculations.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Methods - Lab\Calculations\obj\Debug\netcoreapp3.0\Calculations.dll
+C:\Users\Krasi\source\repos\Methods - Lab\Calculations\obj\Debug\netcoreapp3.0\Calculations.pdb
