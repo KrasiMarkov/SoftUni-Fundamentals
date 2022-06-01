@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Methods - Lab\Multiply Evens by Odd\obj\Debug\netcoreapp3.0\Multiply Evens by Odd.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Methods - Lab\Multiply Evens by Odd\obj\Debug\netcoreapp3.0\Multiply Evens by Odd.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Methods - Lab\Multiply Evens by Odd\obj\Debug\netcoreapp3.0\Multiply Evens by Odd.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Methods - Lab\Multiply Evens by Odd\bin\Debug\netcoreapp3.0\Multiply Evens by Odd.exe
+C:\Users\Krasi\source\repos\Methods - Lab\Multiply Evens by Odd\bin\Debug\netcoreapp3.0\Multiply Evens by Odd.deps.json
+C:\Users\Krasi\source\repos\Methods - Lab\Multiply Evens by Odd\bin\Debug\netcoreapp3.0\Multiply Evens by Odd.runtimeconfig.json
+C:\Users\Krasi\source\repos\Methods - Lab\Multiply Evens by Odd\bin\Debug\netcoreapp3.0\Multiply Evens by Odd.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Methods - Lab\Multiply Evens by Odd\bin\Debug\netcoreapp3.0\Multiply Evens by Odd.dll
+C:\Users\Krasi\source\repos\Methods - Lab\Multiply Evens by Odd\bin\Debug\netcoreapp3.0\Multiply Evens by Odd.pdb
+C:\Users\Krasi\source\repos\Methods - Lab\Multiply Evens by Odd\obj\Debug\netcoreapp3.0\Multiply Evens by Odd.dll
+C:\Users\Krasi\source\repos\Methods - Lab\Multiply Evens by Odd\obj\Debug\netcoreapp3.0\Multiply Evens by Odd.pdb
