@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Methods - Lab\Printing Triangle\bin\Debug\netcoreapp3.0\Printing Triangle.exe
+C:\Users\Krasi\source\repos\Methods - Lab\Printing Triangle\bin\Debug\netcoreapp3.0\Printing Triangle.deps.json
+C:\Users\Krasi\source\repos\Methods - Lab\Printing Triangle\bin\Debug\netcoreapp3.0\Printing Triangle.runtimeconfig.json
+C:\Users\Krasi\source\repos\Methods - Lab\Printing Triangle\bin\Debug\netcoreapp3.0\Printing Triangle.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Methods - Lab\Printing Triangle\bin\Debug\netcoreapp3.0\Printing Triangle.dll
+C:\Users\Krasi\source\repos\Methods - Lab\Printing Triangle\bin\Debug\netcoreapp3.0\Printing Triangle.pdb
+C:\Users\Krasi\source\repos\Methods - Lab\Printing Triangle\obj\Debug\netcoreapp3.0\Printing Triangle.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Methods - Lab\Printing Triangle\obj\Debug\netcoreapp3.0\Printing Triangle.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Methods - Lab\Printing Triangle\obj\Debug\netcoreapp3.0\Printing Triangle.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Methods - Lab\Printing Triangle\obj\Debug\netcoreapp3.0\Printing Triangle.dll
+C:\Users\Krasi\source\repos\Methods - Lab\Printing Triangle\obj\Debug\netcoreapp3.0\Printing Triangle.pdb
