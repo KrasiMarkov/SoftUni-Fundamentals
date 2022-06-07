@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise - Methods\Array Manipulator\obj\Debug\netcoreapp3.0\Array Manipulator.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise - Methods\Array Manipulator\obj\Debug\netcoreapp3.0\Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise - Methods\Array Manipulator\obj\Debug\netcoreapp3.0\Array Manipulator.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise - Methods\Array Manipulator\bin\Debug\netcoreapp3.0\Array Manipulator.exe
+C:\Users\Krasi\source\repos\Exercise - Methods\Array Manipulator\bin\Debug\netcoreapp3.0\Array Manipulator.deps.json
+C:\Users\Krasi\source\repos\Exercise - Methods\Array Manipulator\bin\Debug\netcoreapp3.0\Array Manipulator.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise - Methods\Array Manipulator\bin\Debug\netcoreapp3.0\Array Manipulator.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise - Methods\Array Manipulator\bin\Debug\netcoreapp3.0\Array Manipulator.dll
+C:\Users\Krasi\source\repos\Exercise - Methods\Array Manipulator\bin\Debug\netcoreapp3.0\Array Manipulator.pdb
+C:\Users\Krasi\source\repos\Exercise - Methods\Array Manipulator\obj\Debug\netcoreapp3.0\Array Manipulator.dll
+C:\Users\Krasi\source\repos\Exercise - Methods\Array Manipulator\obj\Debug\netcoreapp3.0\Array Manipulator.pdb
