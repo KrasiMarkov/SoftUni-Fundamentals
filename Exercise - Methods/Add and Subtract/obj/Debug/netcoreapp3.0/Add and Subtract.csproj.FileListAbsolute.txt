@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise - Methods\Add and Subtract\bin\Debug\netcoreapp3.0\Add and Subtract.exe
+C:\Users\Krasi\source\repos\Exercise - Methods\Add and Subtract\bin\Debug\netcoreapp3.0\Add and Subtract.deps.json
+C:\Users\Krasi\source\repos\Exercise - Methods\Add and Subtract\bin\Debug\netcoreapp3.0\Add and Subtract.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise - Methods\Add and Subtract\bin\Debug\netcoreapp3.0\Add and Subtract.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise - Methods\Add and Subtract\bin\Debug\netcoreapp3.0\Add and Subtract.dll
+C:\Users\Krasi\source\repos\Exercise - Methods\Add and Subtract\bin\Debug\netcoreapp3.0\Add and Subtract.pdb
+C:\Users\Krasi\source\repos\Exercise - Methods\Add and Subtract\obj\Debug\netcoreapp3.0\Add and Subtract.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise - Methods\Add and Subtract\obj\Debug\netcoreapp3.0\Add and Subtract.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise - Methods\Add and Subtract\obj\Debug\netcoreapp3.0\Add and Subtract.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise - Methods\Add and Subtract\obj\Debug\netcoreapp3.0\Add and Subtract.dll
+C:\Users\Krasi\source\repos\Exercise - Methods\Add and Subtract\obj\Debug\netcoreapp3.0\Add and Subtract.pdb
