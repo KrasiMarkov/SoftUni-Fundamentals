@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise - Methods\Palindrome Integers\bin\Debug\netcoreapp3.0\Palindrome Integers.exe
+C:\Users\Krasi\source\repos\Exercise - Methods\Palindrome Integers\bin\Debug\netcoreapp3.0\Palindrome Integers.deps.json
+C:\Users\Krasi\source\repos\Exercise - Methods\Palindrome Integers\bin\Debug\netcoreapp3.0\Palindrome Integers.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise - Methods\Palindrome Integers\bin\Debug\netcoreapp3.0\Palindrome Integers.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise - Methods\Palindrome Integers\bin\Debug\netcoreapp3.0\Palindrome Integers.dll
+C:\Users\Krasi\source\repos\Exercise - Methods\Palindrome Integers\bin\Debug\netcoreapp3.0\Palindrome Integers.pdb
+C:\Users\Krasi\source\repos\Exercise - Methods\Palindrome Integers\obj\Debug\netcoreapp3.0\Palindrome Integers.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise - Methods\Palindrome Integers\obj\Debug\netcoreapp3.0\Palindrome Integers.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise - Methods\Palindrome Integers\obj\Debug\netcoreapp3.0\Palindrome Integers.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise - Methods\Palindrome Integers\obj\Debug\netcoreapp3.0\Palindrome Integers.dll
+C:\Users\Krasi\source\repos\Exercise - Methods\Palindrome Integers\obj\Debug\netcoreapp3.0\Palindrome Integers.pdb
