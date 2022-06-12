@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise - Methods\Top Numbers\bin\Debug\netcoreapp3.0\Top Numbers.exe
+C:\Users\Krasi\source\repos\Exercise - Methods\Top Numbers\bin\Debug\netcoreapp3.0\Top Numbers.deps.json
+C:\Users\Krasi\source\repos\Exercise - Methods\Top Numbers\bin\Debug\netcoreapp3.0\Top Numbers.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise - Methods\Top Numbers\bin\Debug\netcoreapp3.0\Top Numbers.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise - Methods\Top Numbers\bin\Debug\netcoreapp3.0\Top Numbers.dll
+C:\Users\Krasi\source\repos\Exercise - Methods\Top Numbers\bin\Debug\netcoreapp3.0\Top Numbers.pdb
+C:\Users\Krasi\source\repos\Exercise - Methods\Top Numbers\obj\Debug\netcoreapp3.0\Top Numbers.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise - Methods\Top Numbers\obj\Debug\netcoreapp3.0\Top Numbers.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise - Methods\Top Numbers\obj\Debug\netcoreapp3.0\Top Numbers.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise - Methods\Top Numbers\obj\Debug\netcoreapp3.0\Top Numbers.dll
+C:\Users\Krasi\source\repos\Exercise - Methods\Top Numbers\obj\Debug\netcoreapp3.0\Top Numbers.pdb
