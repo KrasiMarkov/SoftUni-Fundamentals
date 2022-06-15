@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Lists - Lab\List Manipulation Advanced\bin\Debug\netcoreapp3.0\List Manipulation Advanced.exe
+C:\Users\Krasi\source\repos\Lists - Lab\List Manipulation Advanced\bin\Debug\netcoreapp3.0\List Manipulation Advanced.deps.json
+C:\Users\Krasi\source\repos\Lists - Lab\List Manipulation Advanced\bin\Debug\netcoreapp3.0\List Manipulation Advanced.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lists - Lab\List Manipulation Advanced\bin\Debug\netcoreapp3.0\List Manipulation Advanced.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lists - Lab\List Manipulation Advanced\bin\Debug\netcoreapp3.0\List Manipulation Advanced.dll
+C:\Users\Krasi\source\repos\Lists - Lab\List Manipulation Advanced\bin\Debug\netcoreapp3.0\List Manipulation Advanced.pdb
+C:\Users\Krasi\source\repos\Lists - Lab\List Manipulation Advanced\obj\Debug\netcoreapp3.0\List Manipulation Advanced.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Lists - Lab\List Manipulation Advanced\obj\Debug\netcoreapp3.0\List Manipulation Advanced.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lists - Lab\List Manipulation Advanced\obj\Debug\netcoreapp3.0\List Manipulation Advanced.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lists - Lab\List Manipulation Advanced\obj\Debug\netcoreapp3.0\List Manipulation Advanced.dll
+C:\Users\Krasi\source\repos\Lists - Lab\List Manipulation Advanced\obj\Debug\netcoreapp3.0\List Manipulation Advanced.pdb
