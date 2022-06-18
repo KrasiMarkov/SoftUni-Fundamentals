@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Lists - Lab\Remove Negatives and Reverse\bin\Debug\netcoreapp3.0\Remove Negatives and Reverse.exe
+C:\Users\Krasi\source\repos\Lists - Lab\Remove Negatives and Reverse\bin\Debug\netcoreapp3.0\Remove Negatives and Reverse.deps.json
+C:\Users\Krasi\source\repos\Lists - Lab\Remove Negatives and Reverse\bin\Debug\netcoreapp3.0\Remove Negatives and Reverse.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lists - Lab\Remove Negatives and Reverse\bin\Debug\netcoreapp3.0\Remove Negatives and Reverse.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lists - Lab\Remove Negatives and Reverse\bin\Debug\netcoreapp3.0\Remove Negatives and Reverse.dll
+C:\Users\Krasi\source\repos\Lists - Lab\Remove Negatives and Reverse\bin\Debug\netcoreapp3.0\Remove Negatives and Reverse.pdb
+C:\Users\Krasi\source\repos\Lists - Lab\Remove Negatives and Reverse\obj\Debug\netcoreapp3.0\Remove Negatives and Reverse.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Lists - Lab\Remove Negatives and Reverse\obj\Debug\netcoreapp3.0\Remove Negatives and Reverse.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lists - Lab\Remove Negatives and Reverse\obj\Debug\netcoreapp3.0\Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lists - Lab\Remove Negatives and Reverse\obj\Debug\netcoreapp3.0\Remove Negatives and Reverse.dll
+C:\Users\Krasi\source\repos\Lists - Lab\Remove Negatives and Reverse\obj\Debug\netcoreapp3.0\Remove Negatives and Reverse.pdb
