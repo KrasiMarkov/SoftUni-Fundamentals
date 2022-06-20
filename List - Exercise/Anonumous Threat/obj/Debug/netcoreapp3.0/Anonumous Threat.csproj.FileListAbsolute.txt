@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\List - Exercise\Anonumous Threat\bin\Debug\netcoreapp3.0\Anonumous Threat.exe
+C:\Users\Krasi\source\repos\List - Exercise\Anonumous Threat\bin\Debug\netcoreapp3.0\Anonumous Threat.deps.json
+C:\Users\Krasi\source\repos\List - Exercise\Anonumous Threat\bin\Debug\netcoreapp3.0\Anonumous Threat.runtimeconfig.json
+C:\Users\Krasi\source\repos\List - Exercise\Anonumous Threat\bin\Debug\netcoreapp3.0\Anonumous Threat.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\List - Exercise\Anonumous Threat\bin\Debug\netcoreapp3.0\Anonumous Threat.dll
+C:\Users\Krasi\source\repos\List - Exercise\Anonumous Threat\bin\Debug\netcoreapp3.0\Anonumous Threat.pdb
+C:\Users\Krasi\source\repos\List - Exercise\Anonumous Threat\obj\Debug\netcoreapp3.0\Anonumous Threat.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\List - Exercise\Anonumous Threat\obj\Debug\netcoreapp3.0\Anonumous Threat.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\List - Exercise\Anonumous Threat\obj\Debug\netcoreapp3.0\Anonumous Threat.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\List - Exercise\Anonumous Threat\obj\Debug\netcoreapp3.0\Anonumous Threat.dll
+C:\Users\Krasi\source\repos\List - Exercise\Anonumous Threat\obj\Debug\netcoreapp3.0\Anonumous Threat.pdb
