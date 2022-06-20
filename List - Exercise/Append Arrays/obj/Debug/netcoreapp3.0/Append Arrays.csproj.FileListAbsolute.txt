@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\List - Exercise\Append Arrays\bin\Debug\netcoreapp3.0\Append Arrays.exe
+C:\Users\Krasi\source\repos\List - Exercise\Append Arrays\bin\Debug\netcoreapp3.0\Append Arrays.deps.json
+C:\Users\Krasi\source\repos\List - Exercise\Append Arrays\bin\Debug\netcoreapp3.0\Append Arrays.runtimeconfig.json
+C:\Users\Krasi\source\repos\List - Exercise\Append Arrays\bin\Debug\netcoreapp3.0\Append Arrays.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\List - Exercise\Append Arrays\bin\Debug\netcoreapp3.0\Append Arrays.dll
+C:\Users\Krasi\source\repos\List - Exercise\Append Arrays\bin\Debug\netcoreapp3.0\Append Arrays.pdb
+C:\Users\Krasi\source\repos\List - Exercise\Append Arrays\obj\Debug\netcoreapp3.0\Append Arrays.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\List - Exercise\Append Arrays\obj\Debug\netcoreapp3.0\Append Arrays.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\List - Exercise\Append Arrays\obj\Debug\netcoreapp3.0\Append Arrays.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\List - Exercise\Append Arrays\obj\Debug\netcoreapp3.0\Append Arrays.dll
+C:\Users\Krasi\source\repos\List - Exercise\Append Arrays\obj\Debug\netcoreapp3.0\Append Arrays.pdb
