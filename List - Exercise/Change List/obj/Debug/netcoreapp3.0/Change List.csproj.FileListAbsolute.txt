@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\List - Exercise\Change List\bin\Debug\netcoreapp3.0\Change List.exe
+C:\Users\Krasi\source\repos\List - Exercise\Change List\bin\Debug\netcoreapp3.0\Change List.deps.json
+C:\Users\Krasi\source\repos\List - Exercise\Change List\bin\Debug\netcoreapp3.0\Change List.runtimeconfig.json
+C:\Users\Krasi\source\repos\List - Exercise\Change List\bin\Debug\netcoreapp3.0\Change List.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\List - Exercise\Change List\bin\Debug\netcoreapp3.0\Change List.dll
+C:\Users\Krasi\source\repos\List - Exercise\Change List\bin\Debug\netcoreapp3.0\Change List.pdb
+C:\Users\Krasi\source\repos\List - Exercise\Change List\obj\Debug\netcoreapp3.0\Change List.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\List - Exercise\Change List\obj\Debug\netcoreapp3.0\Change List.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\List - Exercise\Change List\obj\Debug\netcoreapp3.0\Change List.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\List - Exercise\Change List\obj\Debug\netcoreapp3.0\Change List.dll
+C:\Users\Krasi\source\repos\List - Exercise\Change List\obj\Debug\netcoreapp3.0\Change List.pdb
