@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\List - Exercise\List Operations\bin\Debug\netcoreapp3.0\List Operations.exe
+C:\Users\Krasi\source\repos\List - Exercise\List Operations\bin\Debug\netcoreapp3.0\List Operations.deps.json
+C:\Users\Krasi\source\repos\List - Exercise\List Operations\bin\Debug\netcoreapp3.0\List Operations.runtimeconfig.json
+C:\Users\Krasi\source\repos\List - Exercise\List Operations\bin\Debug\netcoreapp3.0\List Operations.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\List - Exercise\List Operations\bin\Debug\netcoreapp3.0\List Operations.dll
+C:\Users\Krasi\source\repos\List - Exercise\List Operations\bin\Debug\netcoreapp3.0\List Operations.pdb
+C:\Users\Krasi\source\repos\List - Exercise\List Operations\obj\Debug\netcoreapp3.0\List Operations.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\List - Exercise\List Operations\obj\Debug\netcoreapp3.0\List Operations.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\List - Exercise\List Operations\obj\Debug\netcoreapp3.0\List Operations.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\List - Exercise\List Operations\obj\Debug\netcoreapp3.0\List Operations.dll
+C:\Users\Krasi\source\repos\List - Exercise\List Operations\obj\Debug\netcoreapp3.0\List Operations.pdb
