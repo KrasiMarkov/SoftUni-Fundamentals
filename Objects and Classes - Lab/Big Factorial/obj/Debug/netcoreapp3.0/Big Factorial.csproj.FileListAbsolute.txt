@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Big Factorial\bin\Debug\netcoreapp3.0\Big Factorial.exe
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Big Factorial\bin\Debug\netcoreapp3.0\Big Factorial.deps.json
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Big Factorial\bin\Debug\netcoreapp3.0\Big Factorial.runtimeconfig.json
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Big Factorial\bin\Debug\netcoreapp3.0\Big Factorial.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Big Factorial\bin\Debug\netcoreapp3.0\Big Factorial.dll
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Big Factorial\bin\Debug\netcoreapp3.0\Big Factorial.pdb
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Big Factorial\obj\Debug\netcoreapp3.0\Big Factorial.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Big Factorial\obj\Debug\netcoreapp3.0\Big Factorial.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Big Factorial\obj\Debug\netcoreapp3.0\Big Factorial.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Big Factorial\obj\Debug\netcoreapp3.0\Big Factorial.dll
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Big Factorial\obj\Debug\netcoreapp3.0\Big Factorial.pdb
