@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Randomize Words\bin\Debug\netcoreapp3.0\Randomize Words.exe
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Randomize Words\bin\Debug\netcoreapp3.0\Randomize Words.deps.json
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Randomize Words\bin\Debug\netcoreapp3.0\Randomize Words.runtimeconfig.json
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Randomize Words\bin\Debug\netcoreapp3.0\Randomize Words.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Randomize Words\bin\Debug\netcoreapp3.0\Randomize Words.dll
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Randomize Words\bin\Debug\netcoreapp3.0\Randomize Words.pdb
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Randomize Words\obj\Debug\netcoreapp3.0\Randomize Words.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Randomize Words\obj\Debug\netcoreapp3.0\Randomize Words.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Randomize Words\obj\Debug\netcoreapp3.0\Randomize Words.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Randomize Words\obj\Debug\netcoreapp3.0\Randomize Words.dll
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Randomize Words\obj\Debug\netcoreapp3.0\Randomize Words.pdb
