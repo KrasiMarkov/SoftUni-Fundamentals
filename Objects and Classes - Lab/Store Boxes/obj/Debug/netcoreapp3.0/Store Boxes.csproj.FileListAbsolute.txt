@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Store Boxes\bin\Debug\netcoreapp3.0\Store Boxes.exe
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Store Boxes\bin\Debug\netcoreapp3.0\Store Boxes.deps.json
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Store Boxes\bin\Debug\netcoreapp3.0\Store Boxes.runtimeconfig.json
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Store Boxes\bin\Debug\netcoreapp3.0\Store Boxes.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Store Boxes\bin\Debug\netcoreapp3.0\Store Boxes.dll
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Store Boxes\bin\Debug\netcoreapp3.0\Store Boxes.pdb
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Store Boxes\obj\Debug\netcoreapp3.0\Store Boxes.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Store Boxes\obj\Debug\netcoreapp3.0\Store Boxes.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Store Boxes\obj\Debug\netcoreapp3.0\Store Boxes.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Store Boxes\obj\Debug\netcoreapp3.0\Store Boxes.dll
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Store Boxes\obj\Debug\netcoreapp3.0\Store Boxes.pdb
