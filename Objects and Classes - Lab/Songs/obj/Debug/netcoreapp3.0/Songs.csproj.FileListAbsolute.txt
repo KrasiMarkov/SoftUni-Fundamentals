@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Songs\bin\Debug\netcoreapp3.0\Songs.exe
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Songs\bin\Debug\netcoreapp3.0\Songs.deps.json
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Songs\bin\Debug\netcoreapp3.0\Songs.runtimeconfig.json
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Songs\bin\Debug\netcoreapp3.0\Songs.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Songs\bin\Debug\netcoreapp3.0\Songs.dll
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Songs\bin\Debug\netcoreapp3.0\Songs.pdb
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Songs\obj\Debug\netcoreapp3.0\Songs.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Songs\obj\Debug\netcoreapp3.0\Songs.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Songs\obj\Debug\netcoreapp3.0\Songs.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Songs\obj\Debug\netcoreapp3.0\Songs.dll
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Songs\obj\Debug\netcoreapp3.0\Songs.pdb
