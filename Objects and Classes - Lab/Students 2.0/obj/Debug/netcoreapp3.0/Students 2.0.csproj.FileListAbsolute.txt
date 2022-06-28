@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students 2.0\bin\Debug\netcoreapp3.0\Students 2.0.exe
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students 2.0\bin\Debug\netcoreapp3.0\Students 2.0.deps.json
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students 2.0\bin\Debug\netcoreapp3.0\Students 2.0.runtimeconfig.json
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students 2.0\bin\Debug\netcoreapp3.0\Students 2.0.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students 2.0\bin\Debug\netcoreapp3.0\Students 2.0.dll
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students 2.0\bin\Debug\netcoreapp3.0\Students 2.0.pdb
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students 2.0\obj\Debug\netcoreapp3.0\Students 2.0.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students 2.0\obj\Debug\netcoreapp3.0\Students 2.0.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students 2.0\obj\Debug\netcoreapp3.0\Students 2.0.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students 2.0\obj\Debug\netcoreapp3.0\Students 2.0.dll
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students 2.0\obj\Debug\netcoreapp3.0\Students 2.0.pdb
