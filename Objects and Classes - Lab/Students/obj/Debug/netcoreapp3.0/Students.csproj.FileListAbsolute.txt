@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students\bin\Debug\netcoreapp3.0\Students.exe
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students\bin\Debug\netcoreapp3.0\Students.deps.json
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students\bin\Debug\netcoreapp3.0\Students.runtimeconfig.json
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students\bin\Debug\netcoreapp3.0\Students.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students\bin\Debug\netcoreapp3.0\Students.dll
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students\bin\Debug\netcoreapp3.0\Students.pdb
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students\obj\Debug\netcoreapp3.0\Students.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students\obj\Debug\netcoreapp3.0\Students.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students\obj\Debug\netcoreapp3.0\Students.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students\obj\Debug\netcoreapp3.0\Students.dll
+C:\Users\Krasi\source\repos\Objects and Classes - Lab\Students\obj\Debug\netcoreapp3.0\Students.pdb
