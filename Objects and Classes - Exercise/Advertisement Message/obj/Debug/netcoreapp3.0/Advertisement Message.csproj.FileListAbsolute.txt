@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Objects and Classes - Exercise new\Advertisement Message\bin\Debug\netcoreapp3.0\Advertisement Message.exe
+C:\Users\Krasi\source\repos\Objects and Classes - Exercise new\Advertisement Message\bin\Debug\netcoreapp3.0\Advertisement Message.deps.json
+C:\Users\Krasi\source\repos\Objects and Classes - Exercise new\Advertisement Message\bin\Debug\netcoreapp3.0\Advertisement Message.runtimeconfig.json
+C:\Users\Krasi\source\repos\Objects and Classes - Exercise new\Advertisement Message\bin\Debug\netcoreapp3.0\Advertisement Message.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Objects and Classes - Exercise new\Advertisement Message\bin\Debug\netcoreapp3.0\Advertisement Message.dll
+C:\Users\Krasi\source\repos\Objects and Classes - Exercise new\Advertisement Message\bin\Debug\netcoreapp3.0\Advertisement Message.pdb
+C:\Users\Krasi\source\repos\Objects and Classes - Exercise new\Advertisement Message\obj\Debug\netcoreapp3.0\Advertisement Message.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Objects and Classes - Exercise new\Advertisement Message\obj\Debug\netcoreapp3.0\Advertisement Message.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Objects and Classes - Exercise new\Advertisement Message\obj\Debug\netcoreapp3.0\Advertisement Message.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Objects and Classes - Exercise new\Advertisement Message\obj\Debug\netcoreapp3.0\Advertisement Message.dll
+C:\Users\Krasi\source\repos\Objects and Classes - Exercise new\Advertisement Message\obj\Debug\netcoreapp3.0\Advertisement Message.pdb
