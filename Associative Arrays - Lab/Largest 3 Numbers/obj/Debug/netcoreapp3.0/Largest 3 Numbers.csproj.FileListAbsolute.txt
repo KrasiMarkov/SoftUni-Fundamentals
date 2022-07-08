@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Largest 3 Numbers\bin\Debug\netcoreapp3.0\Largest 3 Numbers.exe
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Largest 3 Numbers\bin\Debug\netcoreapp3.0\Largest 3 Numbers.deps.json
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Largest 3 Numbers\bin\Debug\netcoreapp3.0\Largest 3 Numbers.runtimeconfig.json
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Largest 3 Numbers\bin\Debug\netcoreapp3.0\Largest 3 Numbers.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Largest 3 Numbers\bin\Debug\netcoreapp3.0\Largest 3 Numbers.dll
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Largest 3 Numbers\bin\Debug\netcoreapp3.0\Largest 3 Numbers.pdb
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Largest 3 Numbers\obj\Debug\netcoreapp3.0\Largest 3 Numbers.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Largest 3 Numbers\obj\Debug\netcoreapp3.0\Largest 3 Numbers.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Largest 3 Numbers\obj\Debug\netcoreapp3.0\Largest 3 Numbers.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Largest 3 Numbers\obj\Debug\netcoreapp3.0\Largest 3 Numbers.dll
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Largest 3 Numbers\obj\Debug\netcoreapp3.0\Largest 3 Numbers.pdb
