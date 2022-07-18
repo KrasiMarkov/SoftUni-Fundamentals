@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Filter\bin\Debug\netcoreapp3.0\Word Filter.exe
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Filter\bin\Debug\netcoreapp3.0\Word Filter.deps.json
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Filter\bin\Debug\netcoreapp3.0\Word Filter.runtimeconfig.json
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Filter\bin\Debug\netcoreapp3.0\Word Filter.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Filter\bin\Debug\netcoreapp3.0\Word Filter.dll
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Filter\bin\Debug\netcoreapp3.0\Word Filter.pdb
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Filter\obj\Debug\netcoreapp3.0\Word Filter.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Filter\obj\Debug\netcoreapp3.0\Word Filter.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Filter\obj\Debug\netcoreapp3.0\Word Filter.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Filter\obj\Debug\netcoreapp3.0\Word Filter.dll
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Filter\obj\Debug\netcoreapp3.0\Word Filter.pdb
