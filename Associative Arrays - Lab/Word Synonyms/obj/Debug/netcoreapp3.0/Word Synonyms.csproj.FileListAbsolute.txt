@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Synonyms\bin\Debug\netcoreapp3.0\Word Synonyms.exe
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Synonyms\bin\Debug\netcoreapp3.0\Word Synonyms.deps.json
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Synonyms\bin\Debug\netcoreapp3.0\Word Synonyms.runtimeconfig.json
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Synonyms\bin\Debug\netcoreapp3.0\Word Synonyms.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Synonyms\bin\Debug\netcoreapp3.0\Word Synonyms.dll
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Synonyms\bin\Debug\netcoreapp3.0\Word Synonyms.pdb
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Synonyms\obj\Debug\netcoreapp3.0\Word Synonyms.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Synonyms\obj\Debug\netcoreapp3.0\Word Synonyms.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Synonyms\obj\Debug\netcoreapp3.0\Word Synonyms.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Synonyms\obj\Debug\netcoreapp3.0\Word Synonyms.dll
+C:\Users\Krasi\source\repos\Associative Arrays - Lab\Word Synonyms\obj\Debug\netcoreapp3.0\Word Synonyms.pdb
