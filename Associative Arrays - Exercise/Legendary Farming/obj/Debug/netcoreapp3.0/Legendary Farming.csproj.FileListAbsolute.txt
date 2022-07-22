@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Legendary Farming\bin\Debug\netcoreapp3.0\Legendary Farming.exe
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Legendary Farming\bin\Debug\netcoreapp3.0\Legendary Farming.deps.json
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Legendary Farming\bin\Debug\netcoreapp3.0\Legendary Farming.runtimeconfig.json
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Legendary Farming\bin\Debug\netcoreapp3.0\Legendary Farming.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Legendary Farming\bin\Debug\netcoreapp3.0\Legendary Farming.dll
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Legendary Farming\bin\Debug\netcoreapp3.0\Legendary Farming.pdb
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Legendary Farming\obj\Debug\netcoreapp3.0\Legendary Farming.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Legendary Farming\obj\Debug\netcoreapp3.0\Legendary Farming.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Legendary Farming\obj\Debug\netcoreapp3.0\Legendary Farming.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Legendary Farming\obj\Debug\netcoreapp3.0\Legendary Farming.dll
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Legendary Farming\obj\Debug\netcoreapp3.0\Legendary Farming.pdb
