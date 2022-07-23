@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Student Academy\bin\Debug\netcoreapp3.0\Student Academy.exe
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Student Academy\bin\Debug\netcoreapp3.0\Student Academy.deps.json
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Student Academy\bin\Debug\netcoreapp3.0\Student Academy.runtimeconfig.json
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Student Academy\bin\Debug\netcoreapp3.0\Student Academy.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Student Academy\bin\Debug\netcoreapp3.0\Student Academy.dll
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Student Academy\bin\Debug\netcoreapp3.0\Student Academy.pdb
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Student Academy\obj\Debug\netcoreapp3.0\Student Academy.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Student Academy\obj\Debug\netcoreapp3.0\Student Academy.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Student Academy\obj\Debug\netcoreapp3.0\Student Academy.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Student Academy\obj\Debug\netcoreapp3.0\Student Academy.dll
+C:\Users\Krasi\source\repos\Associative Arrays - Exercise\Student Academy\obj\Debug\netcoreapp3.0\Student Academy.pdb
