@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Text Processing - Lab\Repeat Strings\bin\Debug\netcoreapp3.0\Repeat Strings.exe
+C:\Users\Krasi\source\repos\Text Processing - Lab\Repeat Strings\bin\Debug\netcoreapp3.0\Repeat Strings.deps.json
+C:\Users\Krasi\source\repos\Text Processing - Lab\Repeat Strings\bin\Debug\netcoreapp3.0\Repeat Strings.runtimeconfig.json
+C:\Users\Krasi\source\repos\Text Processing - Lab\Repeat Strings\bin\Debug\netcoreapp3.0\Repeat Strings.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Text Processing - Lab\Repeat Strings\bin\Debug\netcoreapp3.0\Repeat Strings.dll
+C:\Users\Krasi\source\repos\Text Processing - Lab\Repeat Strings\bin\Debug\netcoreapp3.0\Repeat Strings.pdb
+C:\Users\Krasi\source\repos\Text Processing - Lab\Repeat Strings\obj\Debug\netcoreapp3.0\Repeat Strings.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Text Processing - Lab\Repeat Strings\obj\Debug\netcoreapp3.0\Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Text Processing - Lab\Repeat Strings\obj\Debug\netcoreapp3.0\Repeat Strings.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Text Processing - Lab\Repeat Strings\obj\Debug\netcoreapp3.0\Repeat Strings.dll
+C:\Users\Krasi\source\repos\Text Processing - Lab\Repeat Strings\obj\Debug\netcoreapp3.0\Repeat Strings.pdb
