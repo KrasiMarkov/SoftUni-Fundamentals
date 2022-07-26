@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Text Processing - Lab\Reverse Strings\bin\Debug\netcoreapp3.0\Reverse Strings.exe
+C:\Users\Krasi\source\repos\Text Processing - Lab\Reverse Strings\bin\Debug\netcoreapp3.0\Reverse Strings.deps.json
+C:\Users\Krasi\source\repos\Text Processing - Lab\Reverse Strings\bin\Debug\netcoreapp3.0\Reverse Strings.runtimeconfig.json
+C:\Users\Krasi\source\repos\Text Processing - Lab\Reverse Strings\bin\Debug\netcoreapp3.0\Reverse Strings.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Text Processing - Lab\Reverse Strings\bin\Debug\netcoreapp3.0\Reverse Strings.dll
+C:\Users\Krasi\source\repos\Text Processing - Lab\Reverse Strings\bin\Debug\netcoreapp3.0\Reverse Strings.pdb
+C:\Users\Krasi\source\repos\Text Processing - Lab\Reverse Strings\obj\Debug\netcoreapp3.0\Reverse Strings.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Text Processing - Lab\Reverse Strings\obj\Debug\netcoreapp3.0\Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Text Processing - Lab\Reverse Strings\obj\Debug\netcoreapp3.0\Reverse Strings.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Text Processing - Lab\Reverse Strings\obj\Debug\netcoreapp3.0\Reverse Strings.dll
+C:\Users\Krasi\source\repos\Text Processing - Lab\Reverse Strings\obj\Debug\netcoreapp3.0\Reverse Strings.pdb
