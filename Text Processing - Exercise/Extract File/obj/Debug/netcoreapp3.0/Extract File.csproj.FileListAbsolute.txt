@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Extract File\bin\Debug\netcoreapp3.0\Extract File.exe
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Extract File\bin\Debug\netcoreapp3.0\Extract File.deps.json
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Extract File\bin\Debug\netcoreapp3.0\Extract File.runtimeconfig.json
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Extract File\bin\Debug\netcoreapp3.0\Extract File.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Extract File\bin\Debug\netcoreapp3.0\Extract File.dll
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Extract File\bin\Debug\netcoreapp3.0\Extract File.pdb
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Extract File\obj\Debug\netcoreapp3.0\Extract File.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Extract File\obj\Debug\netcoreapp3.0\Extract File.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Extract File\obj\Debug\netcoreapp3.0\Extract File.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Extract File\obj\Debug\netcoreapp3.0\Extract File.dll
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Extract File\obj\Debug\netcoreapp3.0\Extract File.pdb
