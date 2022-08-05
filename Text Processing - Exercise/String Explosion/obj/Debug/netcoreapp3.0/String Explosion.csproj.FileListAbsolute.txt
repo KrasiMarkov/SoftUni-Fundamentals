@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Text Processing - Exercise\String Explosion\bin\Debug\netcoreapp3.0\String Explosion.exe
+C:\Users\Krasi\source\repos\Text Processing - Exercise\String Explosion\bin\Debug\netcoreapp3.0\String Explosion.deps.json
+C:\Users\Krasi\source\repos\Text Processing - Exercise\String Explosion\bin\Debug\netcoreapp3.0\String Explosion.runtimeconfig.json
+C:\Users\Krasi\source\repos\Text Processing - Exercise\String Explosion\bin\Debug\netcoreapp3.0\String Explosion.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Text Processing - Exercise\String Explosion\bin\Debug\netcoreapp3.0\String Explosion.dll
+C:\Users\Krasi\source\repos\Text Processing - Exercise\String Explosion\bin\Debug\netcoreapp3.0\String Explosion.pdb
+C:\Users\Krasi\source\repos\Text Processing - Exercise\String Explosion\obj\Debug\netcoreapp3.0\String Explosion.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Text Processing - Exercise\String Explosion\obj\Debug\netcoreapp3.0\String Explosion.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Text Processing - Exercise\String Explosion\obj\Debug\netcoreapp3.0\String Explosion.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Text Processing - Exercise\String Explosion\obj\Debug\netcoreapp3.0\String Explosion.dll
+C:\Users\Krasi\source\repos\Text Processing - Exercise\String Explosion\obj\Debug\netcoreapp3.0\String Explosion.pdb
