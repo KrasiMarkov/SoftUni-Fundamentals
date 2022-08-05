@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Valid Usernames\bin\Debug\netcoreapp3.0\Valid Usernames.exe
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Valid Usernames\bin\Debug\netcoreapp3.0\Valid Usernames.deps.json
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Valid Usernames\bin\Debug\netcoreapp3.0\Valid Usernames.runtimeconfig.json
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Valid Usernames\bin\Debug\netcoreapp3.0\Valid Usernames.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Valid Usernames\bin\Debug\netcoreapp3.0\Valid Usernames.dll
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Valid Usernames\bin\Debug\netcoreapp3.0\Valid Usernames.pdb
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Valid Usernames\obj\Debug\netcoreapp3.0\Valid Usernames.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Valid Usernames\obj\Debug\netcoreapp3.0\Valid Usernames.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Valid Usernames\obj\Debug\netcoreapp3.0\Valid Usernames.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Valid Usernames\obj\Debug\netcoreapp3.0\Valid Usernames.dll
+C:\Users\Krasi\source\repos\Text Processing - Exercise\Valid Usernames\obj\Debug\netcoreapp3.0\Valid Usernames.pdb
