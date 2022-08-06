@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Dates\bin\Debug\netcoreapp3.0\Match Dates.exe
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Dates\bin\Debug\netcoreapp3.0\Match Dates.deps.json
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Dates\bin\Debug\netcoreapp3.0\Match Dates.runtimeconfig.json
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Dates\bin\Debug\netcoreapp3.0\Match Dates.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Dates\bin\Debug\netcoreapp3.0\Match Dates.dll
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Dates\bin\Debug\netcoreapp3.0\Match Dates.pdb
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Dates\obj\Debug\netcoreapp3.0\Match Dates.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Dates\obj\Debug\netcoreapp3.0\Match Dates.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Dates\obj\Debug\netcoreapp3.0\Match Dates.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Dates\obj\Debug\netcoreapp3.0\Match Dates.dll
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Dates\obj\Debug\netcoreapp3.0\Match Dates.pdb
