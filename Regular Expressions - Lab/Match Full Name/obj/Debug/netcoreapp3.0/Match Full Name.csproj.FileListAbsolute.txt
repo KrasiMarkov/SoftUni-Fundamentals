@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Full Name\bin\Debug\netcoreapp3.0\Match Full Name.exe
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Full Name\bin\Debug\netcoreapp3.0\Match Full Name.deps.json
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Full Name\bin\Debug\netcoreapp3.0\Match Full Name.runtimeconfig.json
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Full Name\bin\Debug\netcoreapp3.0\Match Full Name.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Full Name\bin\Debug\netcoreapp3.0\Match Full Name.dll
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Full Name\bin\Debug\netcoreapp3.0\Match Full Name.pdb
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Full Name\obj\Debug\netcoreapp3.0\Match Full Name.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Full Name\obj\Debug\netcoreapp3.0\Match Full Name.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Full Name\obj\Debug\netcoreapp3.0\Match Full Name.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Full Name\obj\Debug\netcoreapp3.0\Match Full Name.dll
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Full Name\obj\Debug\netcoreapp3.0\Match Full Name.pdb
