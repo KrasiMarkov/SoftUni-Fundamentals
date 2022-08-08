@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Phone Number\bin\Debug\netcoreapp3.0\Match Phone Number.exe
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Phone Number\bin\Debug\netcoreapp3.0\Match Phone Number.deps.json
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Phone Number\bin\Debug\netcoreapp3.0\Match Phone Number.runtimeconfig.json
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Phone Number\bin\Debug\netcoreapp3.0\Match Phone Number.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Phone Number\bin\Debug\netcoreapp3.0\Match Phone Number.dll
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Phone Number\bin\Debug\netcoreapp3.0\Match Phone Number.pdb
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Phone Number\obj\Debug\netcoreapp3.0\Match Phone Number.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Phone Number\obj\Debug\netcoreapp3.0\Match Phone Number.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Phone Number\obj\Debug\netcoreapp3.0\Match Phone Number.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Phone Number\obj\Debug\netcoreapp3.0\Match Phone Number.dll
+C:\Users\Krasi\source\repos\Regular Expressions - Lab\Match Phone Number\obj\Debug\netcoreapp3.0\Match Phone Number.pdb
