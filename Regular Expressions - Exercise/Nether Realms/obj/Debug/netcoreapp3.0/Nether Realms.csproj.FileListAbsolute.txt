@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Nether Realms\bin\Debug\netcoreapp3.0\Nether Realms.exe
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Nether Realms\bin\Debug\netcoreapp3.0\Nether Realms.deps.json
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Nether Realms\bin\Debug\netcoreapp3.0\Nether Realms.runtimeconfig.json
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Nether Realms\bin\Debug\netcoreapp3.0\Nether Realms.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Nether Realms\bin\Debug\netcoreapp3.0\Nether Realms.dll
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Nether Realms\bin\Debug\netcoreapp3.0\Nether Realms.pdb
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Nether Realms\obj\Debug\netcoreapp3.0\Nether Realms.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Nether Realms\obj\Debug\netcoreapp3.0\Nether Realms.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Nether Realms\obj\Debug\netcoreapp3.0\Nether Realms.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Nether Realms\obj\Debug\netcoreapp3.0\Nether Realms.dll
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Nether Realms\obj\Debug\netcoreapp3.0\Nether Realms.pdb
