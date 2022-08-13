@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Star Enigma\bin\Debug\netcoreapp3.0\Star Enigma.exe
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Star Enigma\bin\Debug\netcoreapp3.0\Star Enigma.deps.json
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Star Enigma\bin\Debug\netcoreapp3.0\Star Enigma.runtimeconfig.json
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Star Enigma\bin\Debug\netcoreapp3.0\Star Enigma.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Star Enigma\bin\Debug\netcoreapp3.0\Star Enigma.dll
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Star Enigma\bin\Debug\netcoreapp3.0\Star Enigma.pdb
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Star Enigma\obj\Debug\netcoreapp3.0\Star Enigma.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Star Enigma\obj\Debug\netcoreapp3.0\Star Enigma.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Star Enigma\obj\Debug\netcoreapp3.0\Star Enigma.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Star Enigma\obj\Debug\netcoreapp3.0\Star Enigma.dll
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\Star Enigma\obj\Debug\netcoreapp3.0\Star Enigma.pdb
