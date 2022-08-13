@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\SoftUni Bar Income\bin\Debug\netcoreapp3.0\SoftUni Bar Income.exe
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\SoftUni Bar Income\bin\Debug\netcoreapp3.0\SoftUni Bar Income.deps.json
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\SoftUni Bar Income\bin\Debug\netcoreapp3.0\SoftUni Bar Income.runtimeconfig.json
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\SoftUni Bar Income\bin\Debug\netcoreapp3.0\SoftUni Bar Income.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\SoftUni Bar Income\bin\Debug\netcoreapp3.0\SoftUni Bar Income.dll
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\SoftUni Bar Income\bin\Debug\netcoreapp3.0\SoftUni Bar Income.pdb
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\SoftUni Bar Income\obj\Debug\netcoreapp3.0\SoftUni Bar Income.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\SoftUni Bar Income\obj\Debug\netcoreapp3.0\SoftUni Bar Income.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\SoftUni Bar Income\obj\Debug\netcoreapp3.0\SoftUni Bar Income.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\SoftUni Bar Income\obj\Debug\netcoreapp3.0\SoftUni Bar Income.dll
+C:\Users\Krasi\source\repos\Regular Expressions - Exercise\SoftUni Bar Income\obj\Debug\netcoreapp3.0\SoftUni Bar Income.pdb
